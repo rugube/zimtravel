@@ -2,6 +2,18 @@
   "configVersion": 2,
   "packages": [
     {
+      "name": "archive",
+      "rootUri": "file:///home/ronald/flutter/.pub-cache/hosted/pub.dartlang.org/archive-3.1.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "args",
+      "rootUri": "file:///home/ronald/flutter/.pub-cache/hosted/pub.dartlang.org/args-2.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "async",
       "rootUri": "file:///home/ronald/flutter/.pub-cache/hosted/pub.dartlang.org/async-2.5.0",
       "packageUri": "lib/",
@@ -74,8 +86,14 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "flutter_launcher_icons",
+      "rootUri": "file:///home/ronald/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_launcher_icons-0.9.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "flutter_svg",
-      "rootUri": "file:///home/ronald/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_svg-0.20.0-nullsafety.3",
+      "rootUri": "file:///home/ronald/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_svg-0.22.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -102,6 +120,12 @@
       "rootUri": "file:///home/ronald/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-3.1.4",
       "packageUri": "lib/",
       "languageVersion": "2.3"
+    },
+    {
+      "name": "image",
+      "rootUri": "file:///home/ronald/flutter/.pub-cache/hosted/pub.dartlang.org/image-3.0.2",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
     },
     {
       "name": "matcher",
@@ -272,13 +296,19 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "yaml",
+      "rootUri": "file:///home/ronald/flutter/.pub-cache/hosted/pub.dartlang.org/yaml-3.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "zimtravel",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.7"
     }
   ],
-  "generated": "2021-06-02T14:01:12.821339Z",
+  "generated": "2021-06-03T09:18:29.873359Z",
   "generator": "pub",
   "generatorVersion": "2.12.0"
 }
