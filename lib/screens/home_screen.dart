@@ -1,11 +1,12 @@
 import 'dart:ui';
-
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:zimtravel/models/recommended_model.dart';
 import 'package:zimtravel/screens/selected_place_screen.dart';
 import 'package:cached_network_image/cached_network_image.dart';
+import 'package:smooth_page_indicator/smooth_page_indicator.dart';
+import 'package:zimtravel/widgets/custom_tab_indicator.dart';
 
 class HomeScreen extends StatefulWidget {
   // Page Controller
@@ -77,6 +78,8 @@ class _HomeScreenState extends State<HomeScreen> {
                         fontSize: 14, fontWeight: FontWeight.w700),
                     unselectedLabelStyle: GoogleFonts.lato(
                         fontSize: 14, fontWeight: FontWeight.w700),
+                    indicator: RoundedRectangleTabIndicator(
+                        color: Color(0xFF000000), weight: 2.4, width: 14.4),
                     tabs: [
                       Tab(
                         child: Container(
