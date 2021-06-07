@@ -1,4 +1,4 @@
-#Thu Jun 03 14:20:51 CAT 2021
+#Fri Jun 04 14:16:38 CAT 2021
 base.0=/home/ronald/Desktop/Projects/zimtravel/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
